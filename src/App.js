@@ -33,7 +33,7 @@ function App() {
               <Card
                 bordered={false}
                 style={{ width: 300 }}
-                cover={<img alt="profile_pic" src="https://lh6.googleusercontent.com/GhLe85aXH7RNgTrjkuOkAmlP3Vl58lTnjA_NTybtvkXDnSFJV7GqnbL7GYyFPa7vhwXfWYMicckjfqamoGmmVohKkE5C-6khyYcTpyoc1F2SzHpPMQ=w1280" />}
+                cover={<img alt="profile_pic" src="http://www.nitandhra.ac.in/faculty/assets/uploads/profile_images/20172.jpg" />}
               >
                 <div>
                   <p>
